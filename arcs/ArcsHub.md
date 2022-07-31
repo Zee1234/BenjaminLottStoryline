@@ -1,4 +1,4 @@
-# [[/arcs/00-filler/JustFree|New Life]]
+# [[New Life|/arcs/00-filler/JustFree]]
 
-# [[/arcs/01-fleeing/StartingOffWrong|Starting Off Wrong, Part 1]]
+# [[Starting Off Wrong, Part 1|/arcs/01-fleeing/StartingOffWrong]]
 

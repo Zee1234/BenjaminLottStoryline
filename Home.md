@@ -1,6 +1,6 @@
 # Table of Contents
 
-## [[/arcs/ArcsHub|Arcs]]
+## [[Arcs|/arcs/ArcsHub]]
 
 
 
