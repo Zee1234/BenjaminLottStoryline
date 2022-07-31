@@ -1,3 +1,19 @@
+# Table of Contents
+
+## [[/arcs/ArcsHub|Arcs]]
+
+
+
+
+
+
+
+
+
+
+
+
+
 # A Solo Plotline
 
 ## Benjamin
@@ -58,7 +74,7 @@
 
 ## Notes
 
-Before Hunters, that's 37600 words. _Well that's quite a bit innit_
+Before Hunters, that's 37600 words. _Well that's quite a bit isn't it_
 
 Just the starred bits are 22000 total
 
