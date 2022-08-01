@@ -22,7 +22,7 @@ Nobody wanted him, so here he stood, waiting for a small caravan to pass so he c
 
 And, the more he thought on it, the more he realized... he would need more than a single night's food.
 
-<span style="color:green;">He was so screwed.</span>
+<span class="zeeCustomColor">He was so screwed.</span>
 
 ***
 
