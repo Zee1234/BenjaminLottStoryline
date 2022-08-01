@@ -2,4 +2,4 @@
 title: Arcs
 ---
 
-[[include:/arcs/_Sidebar]]
+[[include:_Sidebar]]
