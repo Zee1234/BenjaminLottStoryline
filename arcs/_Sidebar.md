@@ -4,7 +4,7 @@
 
 #### A way of life is lost
 
-[[New Life|/arcs/00-filler/JustFree]]
+[[New Life|/arcs/00-filler/01-JustFree]]
 
 [[Starting Off Wrong, Part 1 (Mission - E)|/arcs/01-fleeing/StartingOffWrong]]
 
