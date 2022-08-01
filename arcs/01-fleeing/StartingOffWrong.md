@@ -1,3 +1,9 @@
+---
+title: Starting Off Wrong, Part 1 (Mission)
+---
+
+
+
 Sumashi Azuma was dead. Standing behind a rock was instead _The Masked_ ...Bandit.
 
 Look, he would workshop the name later, or maybe just _not come up with one_ and, if he was AT ALL successful, just wait until people started calling him something.

@@ -1,3 +1,7 @@
+---
+title: Plot outline
+---
+
 # A Solo Plotline
 
 ## Benjamin

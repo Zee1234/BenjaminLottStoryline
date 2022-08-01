@@ -1,3 +1,7 @@
+---
+title: Just Free
+---
+
 Sumashi Azuma was dead. Long Live The Lost Kingdom.
 
 Or some shit like that.
