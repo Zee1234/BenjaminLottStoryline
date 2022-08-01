@@ -2,8 +2,6 @@
 title: Starting Off Wrong, Part 1 (Mission)
 ---
 
-
-
 Sumashi Azuma was dead. Standing behind a rock was instead _The Masked_ ...Bandit.
 
 Look, he would workshop the name later, or maybe just _not come up with one_ and, if he was AT ALL successful, just wait until people started calling him something.
@@ -45,3 +43,30 @@ He did not want to make the merchant's life any worse.
 So he took a deep breath, placed the box down, and began looking more. And there, in the rolls of the cot, was an ornate key. Hesitantly, he tried the key in the box and... the tiniest *click* was heard. He would have sighed in relief if the sound did not scare him so. Instead he opened the box and took a handful of money. He did not exactly count, but it should at least be enough to get through the next few days, and possibly small enough that the merchant would not notice. Then he locked the box back up, placed it where he found it, and returned the key to the cot.
 
 He left, apologizing to himself, and to the merchant especially, once again carefully closing the door before being on his way.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+[spoiler=Mission]Mission Name: Starting off Wrong, Part 1.
+Rank: E
+Mission Location: Borders
+
+Challenges: Arc
+Task: Living life as a missing-nin is hard. Sometimes you run out of funds to even feed yourself. If you want to survive as a criminal, you will have to learn how to think outside the box. There are many travelers along the borders, especially merchants moving there wares from country to country. Your job is to ambush and steal the merchants wares or their earnings if they have already sold all of their product. Do not get seen stealing or the contract will fail.
+
+Word Count Requirement: 500
+Reward: 1,000 Ryo / 5 AP
+
+Character Requirements: Missing Ninja
+Character Exclusive: -[/spoiler]
