@@ -8,6 +8,7 @@ Kaden is on the taller side of 6 foot 5. A wide, muscular, frame is hidden, at l
 
 [[/multimedia/images/characters/Kaden.webp|Kuzan from One Piece]]
 
-# Abilities
+# Backstory
 
-Kaden is a ninja. Currently a Vagabond, born in 
+Kaden is a ninja. Currently a Vagabond, Kaden was born in Valley Country, and roams around.
+
