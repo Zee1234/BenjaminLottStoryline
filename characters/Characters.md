@@ -1,4 +1,4 @@
 ---
 title: characters
 ---
-[[import:_Sidebar.md]]
+[[include:_Sidebar.md]]
