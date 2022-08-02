@@ -15,3 +15,9 @@
 [[It's Not An Addiction, I Swear! (Mission - E)|/arcs/02-new/01-ItsNotAnAddiction]]
 
 [[A Rowdy Group (Mission - D)|/arcs/02-new/02-ARowdyGroup]]
+
+[[Minor Construction Help (Mission - D)|/arcs/02-new/02U1-BarnRaising]]
+
+[[A Dollar Short (Mission - D)|/arcs/02-new/03-DollarShort.md]]
+
+[[Holy Matrimony, or Something (Mission - E)|/arcs/02-new/04-HolyMatrimony]]

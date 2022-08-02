@@ -13,9 +13,21 @@ title: Plot outline
 
 \* [[https://www.narutoroleplaygame.com/t47282-a-rowdy-group#365872]]
 
+[[https://www.narutoroleplaygame.com/t47273-minor-construction-help#365855]]
+
+[[https://www.narutoroleplaygame.com/t47272-food-shopping]]
+
+[[https://www.narutoroleplaygame.com/t47308-restaurant-rehab#365939]]
+
 \* [[https://www.narutoroleplaygame.com/t47616-holy-matrimony-or-something]]
 
+[[https://www.narutoroleplaygame.com/t47275-photo-op-protege#365857]]
+
+[[https://www.narutoroleplaygame.com/t47304-troublesome-tree#365934]]
+
 [[https://www.narutoroleplaygame.com/t47761-parched-dry]]
+
+[[https://www.narutoroleplaygame.com/t47332-call-the-fire-brigade]]
 
 
 
@@ -23,6 +35,8 @@ title: Plot outline
 \* [[https://www.narutoroleplaygame.com/t47621-don-t-shoot-the-messenger]]
 
 [[https://www.narutoroleplaygame.com/t48416-escort-service]] (family of married couple from Holy Matrimony?)
+
+[[https://www.narutoroleplaygame.com/t47300-building-blow-up#365930]]
 
 \* [[https://www.narutoroleplaygame.com/t48442-a-great-big-wall]] (They want to Lord's goons OUT and to STAY OUT)
 
@@ -34,6 +48,8 @@ title: Plot outline
 
 ### Just arriving
 \* [[https://www.narutoroleplaygame.com/t48415-a-dollar-short]] (talk to the villager, cover cost himself)
+
+[[https://www.narutoroleplaygame.com/t47567-time-to-go]]
 
 \* [[https://www.narutoroleplaygame.com/t47278-a-simple-delivery#365860]]
 
