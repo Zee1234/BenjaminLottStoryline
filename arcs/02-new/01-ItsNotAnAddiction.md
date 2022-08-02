@@ -35,7 +35,7 @@ Ben walked over to the table after giving an affirmative nod to the inn keep. He
 
 And then Ben's face got a bit sad. <span class="zeeCustomColor">"But I'll just watch," he said, looking at the pot on the table. "Ain't got the cash to join y'all. Planned to ask around town, maybe get some odd jobs tomorrow."</span>
 
-<span class="zeeTownColor">"Ah that's fine, sunny!" said the middle aged woman. Ben was fairly sure she was the same age as him, or roundabouts, but he shrugged it off. Metaphorically, of course. <span class="zeeTownColor">"You play, and how's this. You win, we cover your stay at the inn, and split the pot between us. One of us wins and you get to have some fun in the middle of bum fuck nowhere! Name's Tami, by the way,"</span> she said. As been looked around the others at the table began to introduce themselves.
+<span class="zeeTownColor">"Ah that's fine, sunny!"</span> said the middle aged woman. Ben was fairly sure she was the same age as him, or roundabouts, but he shrugged it off. Metaphorically, of course. <span class="zeeTownColor">"You play, and how's this. You win, we cover your stay at the inn, and split the pot between us. One of us wins and you get to have some fun in the middle of bum fuck nowhere! Name's Tami, by the way,"</span> she said. As been looked around the others at the table began to introduce themselves.
 
 <span class="zeeTownColor">"Dari"</span>
 
