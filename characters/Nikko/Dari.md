@@ -1,5 +1,5 @@
 ---
-title: Dari
+title: Dari Takahashi
 ---
 
 # Appearance
