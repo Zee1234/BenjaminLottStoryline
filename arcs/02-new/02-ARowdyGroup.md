@@ -83,3 +83,20 @@ At this point Dari came over and helped the boy too his feet, promising to take 
 Toshiro thanked Ben, and said the stay tonight was on the house.
 
 Turns out, it did not matter than Ben was losing at Poker, he lucked out in the end anyways.
+
+
+
+[spoiler=mission]Mission Name: A Rowdy Group
+Rank: D
+Mission Location: Neutral Village
+
+Challenges: N.A.
+Task: The innkeeper of the local tavern has had enough of a group of drunkards looking to pick fights with the other patrons. They have tasked you with removing them from the premises by any means necessary. Do you simply kill the men and take the payday, knock them out and throw them outside, or attempt to talk them down? The choice, and the consequences, are yours.
+
+Word Count Requirement: 1000
+Reward:2000 Ryo / 10 AP
+
+Character Requirements: Missing Ninja
+Character Exclusive: -
+
+Link to Legacy Mission: A Rowdy Group[/spoiler]
