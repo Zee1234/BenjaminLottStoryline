@@ -1,4 +1,4 @@
 ---
-title: characters
+title: Characters
 ---
 [[include:_Sidebar.md]]
