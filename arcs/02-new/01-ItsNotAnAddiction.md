@@ -25,19 +25,19 @@ There were a lot of stares. The inn seemed to very much be the village bar. So h
 
 <span class="zeeTownColor">"Ya know, so few people come here, doubt they bother to keep the rooms clean."</span> The voice came from behind Ben.
 
-<span class="zeeTownColor">"Oh shut it ya coot, we still clean 'em. At least one at least,"</span> replied the inn keep. Looking to Ben, though, he whispered <span class="zeeTownColor">"Hey, mind waiting a bit while we get the room set up? But sure."</span>
+<span class="zeeToshiro">"Oh shut it ya coot, we still clean 'em. At least one at least,"</span> replied the inn keep. Looking to Ben, though, he whispered <span class="zeeToshiro">"Hey, mind waiting a bit while we get the room set up? But sure."</span>
 
 The man behind Ben seemed to have heard, as he started cackling and going <span class="zeeTownColor">"I told ya! I told ya!"</span>
 
-<span class="zeeTownColor">"Come here, newcomer,"</span> said a middle aged woman. Burly, but certainly not fat, she had a sort of jovial yet intimidating aura about her. <span class="zeeTownColor">"You ever played poker?"</span>
+<span class="zeeTami">"Come here, newcomer,"</span> said a middle aged woman. Burly, but certainly not fat, she had a sort of jovial yet intimidating aura about her. <span class="zeeTami">"You ever played poker?"</span>
 
 Ben walked over to the table after giving an affirmative nod to the inn keep. He cleaned his glasses before sitting down, meanwhile saying <span class="zeeCustomColor">"Yeah, I've played some poker. Won't call myself amazing but I won the occasional poker night back home."</span> The chair squeaked against the floor as he had a somewhat unfortunate time moving it into position.
 
 And then Ben's face got a bit sad. <span class="zeeCustomColor">"But I'll just watch," he said, looking at the pot on the table. "Ain't got the cash to join y'all. Planned to ask around town, maybe get some odd jobs tomorrow."</span>
 
-<span class="zeeTownColor">"Ah that's fine, sunny!"</span> said the middle aged woman. Ben was fairly sure she was the same age as him, or roundabouts, but he shrugged it off. Metaphorically, of course. <span class="zeeTownColor">"You play, and how's this. You win, we cover your stay at the inn, and split the pot between us. One of us wins and you get to have some fun in the middle of bum fuck nowhere! Name's Tami, by the way,"</span> she said. As been looked around the others at the table began to introduce themselves.
+<span class="zeeTami">"Ah that's fine, sunny!"</span> said the middle aged woman. Ben was fairly sure she was the same age as him, or roundabouts, but he shrugged it off. Metaphorically, of course. <span class="zeeTami">"You play, and how's this. You win, we cover your stay at the inn, and split the pot between us. One of us wins and you get to have some fun in the middle of bum fuck nowhere! Name's Tami, by the way,"</span> she said. As been looked around the others at the table began to introduce themselves.
 
-<span class="zeeTownColor">"Dari"</span>
+<span class="zeeDari">"Dari"</span>
 
 <span class="zeeTownColor">"Jansen"</span>
 

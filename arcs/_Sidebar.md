@@ -13,3 +13,5 @@
 #### The new guy in town
 
 [[It's Not An Addiction, I Swear! (Mission - E)|/arcs/02-new/01-ItsNotAnAddiction]]
+
+[[A Rowdy Group (Mission - D)|/arcs/02-new/02-ARowdyGroup]]
