@@ -1,3 +1,3 @@
 ---
-title: A Simple Delivery
+title: A Simple Delivery (Mission)
 ---
