@@ -16,7 +16,7 @@
 
 [[Dari Takahashi|Nikko/Dari]]
 
-[[Jamie Takahashi|Nikko/Jamie]]
+[[Jaime Takahashi|Nikko/Jaime]]
 
 [[Mio Takahashi|Nikko/Mio]]
 
