@@ -17,7 +17,7 @@ title: Plot outline
 
 [[https://www.narutoroleplaygame.com/t47272-food-shopping]]
 
-[[https://www.narutoroleplaygame.com/t47308-restaurant-rehab#365939]]
+<!-- [[https://www.narutoroleplaygame.com/t47308-restaurant-rehab#365939]] -->
 
 <!-- \* [[https://www.narutoroleplaygame.com/t47616-holy-matrimony-or-something]] -->
 

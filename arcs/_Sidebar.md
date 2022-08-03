@@ -21,3 +21,5 @@
 [[A Dollar Short (Mission - D)|/arcs/02-new/03-DollarShort.md]]
 
 <!-- [[Holy Matrimony, or Something (Mission - E)|/arcs/02-new/04-HolyMatrimony]] -->
+
+[[Food Shopping (Mission - E)|/arcs/02-new/04-FoodShopping]]
