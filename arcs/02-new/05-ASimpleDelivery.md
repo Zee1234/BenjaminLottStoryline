@@ -1,0 +1,3 @@
+---
+title: A Simple Delivery
+---
