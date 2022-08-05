@@ -40,7 +40,7 @@ He imagined that the light of the fire served as a good beacon, being probably t
 
 ***
 
-The rice was boiling, and the water was cooking, when he noticed an approaching... something. The shadow in the rain and haze looked vaguely humanoid, and he really had nothing to fear.
+The water was boiling, and the rice was cooking, when he noticed an approaching... something. The shadow in the rain and haze looked vaguely humanoid, and he really had nothing to fear.
 
 What, would he be robbed blind of what little he had? It would just be karma.
 
@@ -48,7 +48,7 @@ So he decided to call out into the rain <span class="zeeCustomColor">"Hey! You o
 
 He really had to shout to make sure he was heard over the sound of the rain, but the shadowy figure stopped, and then as he finished speaking, walked towards the fire faster.
 
-As the figure got out of the rain, his details became more obvious. A long, green coat was clasped shut around him, holding the rain at least somewhat at bay. Above his head he carried a leaf, likely a makeshift umbrella. Likely a very large leaf that appeared up to the task.
+As the figure got out of the rain, his details became more obvious. A long, green coat was clasped shut around him, holding the rain at least somewhat at bay. Above his head he carried a leaf, likely a makeshift umbrella. A very large leaf that appeared up to the task.
 
 And even with that protection, he, and especially his backpack, looked absolutely soaked.
 
