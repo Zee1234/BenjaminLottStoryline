@@ -1,5 +1,7 @@
 ### [[Mission Outline|/ASoloPlotline]]
 
+### [[Arcs|/arcs/ArcsHub]]
+
 ***
 
 #### A way of life is lost
