@@ -14,7 +14,7 @@ And here he stood, despising himself for what he had done. What he had become. W
 
 ***
 
-<span class="zeeCustomColor">_It smells of rain_</span>. The thought popped into his mind, blocking out the other troubles had been thinking about.
+_It smells of rain_, he thought. The thought popped into his mind, blocking out the other troubles had been thinking about.
 
 Looking around, he had to find a place to hide from the rain. Spying a stone outcropping, he decided to go there. He had spent some of his money already, getting the bare minimum. A few flasks for water, a backpack to store things in, and a smaller bag of rice among them.
 
@@ -44,7 +44,7 @@ The water was boiling, and the rice was cooking, when he noticed an approaching.
 
 What, would he be robbed blind of what little he had? It would just be karma.
 
-So he decided to call out into the rain <span class="zeeCustomColor">"Hey! You out there! Come in out of the rain! I've got some cover here!"</span>
+So he decided to call out into the rain "Hey! You out there! Come in out of the rain! I've got some cover here!"
 
 He really had to shout to make sure he was heard over the sound of the rain, but the shadowy figure stopped, and then as he finished speaking, walked towards the fire faster.
 
@@ -52,19 +52,19 @@ As the figure got out of the rain, his details became more obvious. A long, gree
 
 And even with that protection, he, and especially his backpack, looked absolutely soaked.
 
-<span class="zeeNPCColor">"Thanks for yelling out mate, I wasn't sure what I was seeing here, what with all the rain! Name's Kaden, what's yours?"</span>
+"Thanks for yelling out mate, I wasn't sure what I was seeing here, what with all the rain! Name's Kaden, what's yours?"
 
 And there was the single most feared question that had been asked. Not knowing how to answer, he took a deep breath before just... speaking.
 
-<span class="zeeCustomColor">"Benjamin."</span> It was a simple name, at least in some of the places he had travelled it was. He had met many Benjamins while walking through Moon Country.
+"Benjamin." It was a simple name, at least in some of the places he had travelled it was. He had met many Benjamins while walking through Moon Country.
 
-<span class="zeeNPCColor">"Well, Benjamin,"</span> he said, a smile growing on his face as he took off the large coat and what could only be described as a beanie hat. <span class="zeeNPCColor">"It's nice to meet you! Nice to see that I was not the only one caught out in the rain. Where you headed?"</span>
+"Well, Benjamin," he said, a smile growing on his face as he took off the large coat and what could only be described as a beanie hat. "It's nice to meet you! Nice to see that I was not the only one caught out in the rain. Where you headed?"
 
 Kaden seemed to be eyeing... _Benjamin_. That name would take getting used to. But might as well keep it, now.
 
-<span class="zeeCustomColor">"Going east, I guess. I've already travelled... well I've already traveled over most everything. Haven't gone too far south or too far north but... I guess I'm just going to go East until I decided to stop."</span> Benjamin checked the rice, giving it a stir with a spoon/fork/knife hybrid thingy that he had picked up with some emergency supplies.
+"Going east, I guess. I've already travelled... well I've already traveled over most everything. Haven't gone too far south or too far north but... I guess I'm just going to go East until I decided to stop."</span> Benjamin checked the rice, giving it a stir with a spoon/fork/knife hybrid thingy that he had picked up with some emergency supplies.
 
-<span class="zeeNPCColor">"Well I got some good news and some bad news for you, Benjamin,"</span> Kaden said, drying his black, curly hair with a towel that Benjamin was not entirely sure of the origins of. Probably just a deep pocket in Kaden's backpack, which Ben. Yes, _Ben_ was a good way to say it. The backpack, which Ben now noticed was sitting on a rock, opened and airing out. The insides actually seemed rather dry, so apparently it was a fairly well waterproofed backpack. <span class="zeeNPCColor">"You're about as _East_ as you can go. Maybe you can rent a ship to go even further _East_, but, and I don't mean to be rude here, but you don't look like the type that could afford a ship."</span>
+"Well I got some good news and some bad news for you, Benjamin,"</span> Kaden said, drying his black, curly hair with a towel that Benjamin was not entirely sure of the origins of. Probably just a deep pocket in Kaden's backpack, which Ben. Yes, _Ben_ was a good way to say it. The backpack, which Ben now noticed was sitting on a rock, opened and airing out. The insides actually seemed rather dry, so apparently it was a fairly well waterproofed backpack. <span class="zeeNPCColor">"You're about as _East_ as you can go. Maybe you can rent a ship to go even further _East_, but, and I don't mean to be rude here, but you don't look like the type that could afford a ship."</span>
 
 Ben smiled. <span class="zeeCustomColor">"No, probably not,"</span> he thought. He had already had to sneak aboard a ship from Flowers to Island, and then from Island to Honey. Just more things to add to his growing list of crimes that he somehow got away with.
 
