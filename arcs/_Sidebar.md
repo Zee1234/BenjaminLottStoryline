@@ -27,3 +27,7 @@
 [[Food Shopping (Mission - E)|/arcs/02-new/04-FoodShopping]]
 
 [[A Simple Delivery (Mission - D)|/arcs/02-new/05-ASimpleDelivery]]
+
+### Been here all along
+
+[[Don't Shoot the Messenger (Mission - E)|/arcs/03-around/01-BringingBadTidings]]
