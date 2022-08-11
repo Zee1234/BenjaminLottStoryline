@@ -8,13 +8,15 @@ title: Jutsu and Skills to Learn
 
 ### For Sure Happening
 
+[[https://www.narutoroleplaygame.com/t48948-beloved-presence]] Double rewards from missions
+
 [[https://www.narutoroleplaygame.com/t50203-clanless-pureblood]]
+
 [[https://www.narutoroleplaygame.com/t45556-chakra-suppression-v7]]
+
 [[https://www.narutoroleplaygame.com/t44393-chakra-sensory-v7]]
 
 ### For Consideration
-
-[[https://www.narutoroleplaygame.com/t48948-beloved-presence]] Double rewards from missions
 
 [[https://www.narutoroleplaygame.com/t51030-ceaseless-dedication-to-the-art]] Lose a spec but faster CDs
 
