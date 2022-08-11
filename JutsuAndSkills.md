@@ -42,6 +42,8 @@ title: Jutsu and Skills to Learn
 
 [[https://www.narutoroleplaygame.com/t45795-seal-of-suppression-v7]]
 
+[[https://www.narutoroleplaygame.com/t47791-butterfly-effect-v7]]
+
 ### For Consideration
 
 [[https://www.narutoroleplaygame.com/t50205-blood-tastes-like-iron-v7-2]]
