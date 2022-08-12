@@ -164,17 +164,35 @@ Several Meadow Fritiallaries flew alongside Zebra Longwings with White Admirals,
 
 At the lead of everything, though, was a single Blue Morpho.
 
-The bright, blue wings, the black outline, the small specks of white, and the silver pieces that appeared almost as if a separate pair of wings, would be
+The bright, blue wings, the black outline, the small specks of white, and the silver pieces that appeared almost as if a separate pair of wings, would be the most alluring of the bunch. If all else failed, people would be attracted to that one, surely.
 
+And, as expected, the marches began. Very few, if even anyone, had doubts about the scenario before following after the butterflies. Ben would stand up and begin walking to the south. 
 
+The butterflies would also begin making their ways southward, and the camp, at least to the handful of individuals inside it, would be much longer, or at least appear much longer, than it actually was. 
 
+Ben was using this technique to guide all the various butterflies towards a river. While fast flowing, it was not very turbulent. If the shock of the water did not wake people from their stupor, they would be quickly moved downstream and out of his range.
 
+While the walks happened, Ben himself walked over to the guard he had previously tied up on top of the plateau. Thankfully still fast asleep, or perhaps knocked out was a better phrasing, Ben undid the bits tying him down and remove the gag.
 
+Ben would command a handful of butterflies that had been kept behind to flutter around the person's sleeping head. Then, with a splash of water from his water jug, the man groggily awoke. There were a few moments of confusion before he became transfixed by the butterflies circling his head. At this point, Ben had them start flying away, slowly approaching a relatively easy pathway down from the cliff face, in the direction everyone else had gone.
 
+Ben began hearing the splashes around this time. As one bandit would fall into the river, Ben did not notice a perceivable difference in the jutsu.
 
+He wondered if this mean they, whoever they were, were still under the affects, or if rather Ben simply could not learn the knowledge this way.
 
+This momentarily brought his attention to the hordes walking towards the river, which Ben had distorted their perception into thinking it was further away than it actually was. Ben watched as one was dragged away by the current, and felt nothing as the individual left what he was fairly certain was the maximum range of the butterflies.
 
+_Good to know,_ he thought, before turning his attention back to making sure the guard did not fall to his death. The path was not that difficult, and while Ben made sure the distance to the _river_ appeared longer than it actually was, the path was left entirely alone. Ben did not want to cause undue harm.
 
+So that was it. Ben would wait for the entire group to get washed away by the river. He would go down and explore the camp a bit, make a right mess of things, probably destroy some pots, pans, something. Knock down tents, make sure that there was a message to be gotten. If he found it, he would take some of their money. Not everything, not even most. Just a tiny bit.
+
+Well, he knew it was a tiny bit only because he found it. They had been busy. But Ben found more.
+
+A single letter, hand written.
+
+As Ben had expected.
+
+It was the greedy Lord. Again.
 
 
 
