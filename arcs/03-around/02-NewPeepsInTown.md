@@ -190,18 +190,4 @@ Well, he knew it was a tiny bit only because he found it. They had been busy. Bu
 
 A single letter, hand written.
 
-As Ben had expected.
-
-It was the greedy Lord. Again.
-
-
-
-
-
-
-
-
-
-
-
-
+It was, of course, as Ben had expected.
