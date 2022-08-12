@@ -31,3 +31,5 @@
 ### Been here all along
 
 [[Don't Shoot the Messenger (Mission - E)|/arcs/03-around/01-BringingBadTidings]]
+
+[[Cog in the Wheel (Mission - C)|/arcs/03-around/02-NewPeepsInTown]]
