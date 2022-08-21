@@ -160,7 +160,7 @@ Scattered through were the Appalachian Azures, their brilliant pink and purple w
 
 A different swarm, composed of the Dreamy Duskywing primarily, drifted down. The Duskywing specimens existed with many Southern Cloudywings joining their cluster, and Harvesters adding a note of color to their group.
 
-Several Meadow Fritiallaries flew alongside Zebra Longwings with White Admirals, which really just _are not_ white, fluttering between them, the difference in shades creating a strange pattern floating through the air, wings softly pumping.
+Several Meadow Fritillaries flew alongside Zebra Longwings with White Admirals, which really just _are not_ white, fluttering between them, the difference in shades creating a strange pattern floating through the air, wings softly pumping.
 
 At the lead of everything, though, was a single Blue Morpho.
 
