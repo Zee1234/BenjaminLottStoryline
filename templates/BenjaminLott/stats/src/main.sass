@@ -1,0 +1,75 @@
+// Boring
+// #p402548.post-section #Selector1:checked, #p402548.post #Selector2:checked
+// #p402548.post-section .toggle:not([open]), #p402548.post .toggle[open]
+// @media only screen and (max-width: 767px)
+    // div
+    //     padding: 3em
+// Fancy
+// #p402548.post #Selector1:checked, #p402548.post-section #Selector2:checked
+// #p402548.post .toggle:not([open]), #p402548.post-section .toggle[open]
+// @media only screen and (min-width: 768px)
+#ben-inner-container
+    display: grid
+    grid-template-columns: 1fr 3fr
+    grid-template-rows: repeat(6, auto)
+
+    h2, h3
+        border: none
+        color: green
+
+    div
+        padding: 3px
+
+
+#picAndName
+    grid-column: 1 / 3
+    grid-row: 1 / span 1
+    margin: 0 auto
+
+    &:hover #bensName
+
+    img
+        max-width: 20vw
+
+    h1
+        border: none
+        color: green
+
+    a
+        color: green
+
+
+
+#basics
+    grid-column: 1 / 2
+    grid-row: 2 / span 1
+#ninjaDeets
+    grid-column: 1 / 2
+    grid-row: 3 / span 1
+#ninjaStats
+    grid-column: 1 / 2
+    grid-row: 4 / span 1
+#skilsAndInv
+    grid-column: 1 / 2
+    grid-row: 5 / span 1
+
+#jutsu
+    grid-column: 2 / 3
+    grid-row: 2 / span 1
+#appearance
+    grid-column: 2 / 3
+    grid-row: 3 / span 1
+#personality
+    grid-column: 2 / 3
+    grid-row: 4 / span 2
+
+#story
+    grid-column: 1 / 3
+    grid-row: 6 / 7
+
+
+
+// .custom-selector
+//     display: none
+// .custom-selector:unchecked
+//     display: initial

@@ -1,0 +1,6 @@
+dist/*
+.parcel-cache/*
+src/dist/*
+src/node_modules/*
+src/.parcel-cache/*
+src/package*
