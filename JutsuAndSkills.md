@@ -8,13 +8,13 @@ title: Jutsu and Skills to Learn
 
 ### For Sure Happening
 
-[[https://www.narutoroleplaygame.com/t48948-beloved-presence]] Double rewards from missions
+[[https://www.narutoroleplaygame.com/t48948-beloved-presence]] 2000
 
-[[https://www.narutoroleplaygame.com/t50203-clanless-pureblood]]
+[[https://www.narutoroleplaygame.com/t50203-clanless-pureblood]] 2000
 
-[[https://www.narutoroleplaygame.com/t45556-chakra-suppression-v7]]
+[[https://www.narutoroleplaygame.com/t45556-chakra-suppression-v7]] 2000
 
-[[https://www.narutoroleplaygame.com/t44393-chakra-sensory-v7]]
+[[https://www.narutoroleplaygame.com/t44393-chakra-sensory-v7]] 2000
 
 ### For Consideration
 
@@ -40,13 +40,35 @@ title: Jutsu and Skills to Learn
 
 ### For Sure Happening
 
-[[https://www.narutoroleplaygame.com/t45795-seal-of-suppression-v7]]
+[[https://www.narutoroleplaygame.com/t47791-butterfly-effect-v7]] 1000
 
-[[https://www.narutoroleplaygame.com/t47791-butterfly-effect-v7]]
+[[https://www.narutoroleplaygame.com/t45126-minds-eye-of-the-kagura-v7]] 2500
+
+[[https://www.narutoroleplaygame.com/t46585-transparent-escape-technique]] 1000/1500
+
+[[https://www.narutoroleplaygame.com/t51012-sensory-deprivation]] 250
+
+[[https://www.narutoroleplaygame.com/t46270-chakra-flare-v7]] 500
+
+[[https://www.narutoroleplaygame.com/t46668-hakudatsu-v7]] 1750
+
+[[https://www.narutoroleplaygame.com/t46543-chakra-disguise-v7-update]] 2500
 
 ### For Consideration
 
-[[https://www.narutoroleplaygame.com/t50205-blood-tastes-like-iron-v7-2]]
+[[https://www.narutoroleplaygame.com/t52509-spine-chill-revamp]] 500/1000/1500
+
+[[https://www.narutoroleplaygame.com/t47898-chakra-mask]] 500/1000/1500/2500
+
+[[https://www.narutoroleplaygame.com/t46349-en-chakra-detection-v7]] 1000/1500/2500/5000
+
+[[https://www.narutoroleplaygame.com/t45004-mark-tracking-v7]] 1000
+
+[[https://www.narutoroleplaygame.com/t45954-hiding-with-camouflage-v7]] 1500/2500
+
+[[https://www.narutoroleplaygame.com/t46666-chakra-nullification-v7]] 2500
+
+[[https://www.narutoroleplaygame.com/t46819-eye-mind-reading-v7]] 2500
 
 
 
