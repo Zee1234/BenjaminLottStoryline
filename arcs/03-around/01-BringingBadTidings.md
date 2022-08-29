@@ -47,10 +47,6 @@ But Ben knew that, if he wanted to stay hidden, as a totally normal person, well
 
 So, at least in his basement, he could always be hidden.
 
-And above? That is what chakra suppression was for, one of the first things his niece had taught him after he started showing promise, but not enough promise to really get anywhere. She said it was for if he was ever in danger and...
-
-Well he was always in danger here, was he not?
-
 ***
 
 Ben was reading a book on the upper floor when he heard a banging from below him. Not a violent banging.
@@ -85,7 +81,7 @@ While she stood in the basement, Ben could not read her Chakra. He had gotten us
 
 Ben froze. He had not been ascending the stairs, certainly. But his whole body stopped moving. "What?" is all he managed. It was not a what of anger, hatred, or malice. It was said almost with a puppy dog intonation.
 
-"The only thing more obviously a ninja that someone in a hairband," she began, "is a person without any chakra signature."
+"The only thing more obviously a ninja than someone in a hairband," she began, "is a person without any chakra signature."
 
 Ben stood there for a minute, went "Ah", and ascended the stairs. The woman left, with her package, and, as Ben would later realize, his leftover clothes.
 
