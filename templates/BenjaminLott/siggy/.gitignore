@@ -1,0 +1,4 @@
+node*
+package*
+.parcel-cache*
+dist*
