@@ -74,3 +74,25 @@ title: Jutsu and Skills to Learn
 
 
 # Emi Tanaka
+
+# Junko Wara
+
+## Skills
+
+### For Sure
+
+[[https://www.narutoroleplaygame.com/t50203-clanless-pureblood]] 2000 (Slot less)
+
+[[https://www.narutoroleplaygame.com/t51030-ceaseless-dedication-to-the-art]] 2000 (Probably tai but maybe weaponry) (Replaces a spec)
+
+[[https://www.narutoroleplaygame.com/t49783-heavenly-body]] 2000 (AP Regen while Tai/Weaponry use)
+
+### For Consideration
+
+[[https://www.narutoroleplaygame.com/t50233-talented]] discuss if can be made free if user has Ceaseless Dedication?
+
+## Jutsu
+
+### For Sure
+
+[[https://www.narutoroleplaygame.com/t50205-blood-tastes-like-iron-v7-2]] 2500/4000
