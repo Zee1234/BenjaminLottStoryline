@@ -1,10 +1,16 @@
 # Table of Contents
 
-## [[A Solo Plotline|/ASoloPlotline]]
+## Benjamin Lott
 
-## [[Arcs|/arcs/ArcsHub]]
+### [[A Solo Plotline|/ASoloPlotline]]
 
-## [[Characters|/characters/Characters]]
+### [[Arcs|/arcs/ArcsHub]]
+
+### [[Characters|/characters/Characters]]
+
+## Junko Wara
+
+### [[A Mission Collection|JunkoArcs/A Mission Collection]]
 
 # Useful links
 
