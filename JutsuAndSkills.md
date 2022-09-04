@@ -91,8 +91,30 @@ title: Jutsu and Skills to Learn
 
 [[https://www.narutoroleplaygame.com/t50233-talented]] discuss if can be made free if user has Ceaseless Dedication?
 
+[[https://www.narutoroleplaygame.com/t49717-extreme-realm-of-force#377844]] 2000 (ERF) (Strength based fighting style)
+
 ## Jutsu
 
 ### For Sure
 
 [[https://www.narutoroleplaygame.com/t50205-blood-tastes-like-iron-v7-2]] 2500/4000
+
+[[https://www.narutoroleplaygame.com/t50860-block-v7-2]] C-S
+
+[[https://www.narutoroleplaygame.com/t50590-erf-world-in-sleeves]] B-S
+
+[[https://www.narutoroleplaygame.com/t49942-perfect-body]] B-S (Clear bad effects)
+
+[[https://www.narutoroleplaygame.com/t49944-crashing-thunder-charge]] MOVE AT JUTSU POWER? B-S
+
+[[https://www.narutoroleplaygame.com/t45009-tank-v7-2]] B-S (Tank)
+
+[[https://www.narutoroleplaygame.com/t49940-360-degree-shield-hand]]
+
+### For Consideration
+
+[[https://www.narutoroleplaygame.com/t49717-extreme-realm-of-force#377844]] E-S (Requires Extreme Realm of Force)
+
+[[https://www.narutoroleplaygame.com/t47806-tsuri-goshi]] D-S
+
+[[https://www.narutoroleplaygame.com/t49940-360-degree-shield-hand]] C-S Redirecting Arrows
