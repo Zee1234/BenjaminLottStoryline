@@ -1,3 +1,5 @@
+[[https://www.narutoroleplaygame.com/t47272-food-shopping]]
+
 It was a beautiful day!
 
 The sun shone in onto Junko, its beams weaving their way through the curtains she had hung up over her window.

@@ -1,3 +1,5 @@
+[[https://www.narutoroleplaygame.com/t47279-the-sneaky-cat#365861]]
+
 It was three o'clock now, and Junko stood in front of a very large building! The kind lady at the mission place had given Junko the insider info about this job! Apparently, this was a noble's house, and every year, without fail, the family cat would go missing. It just so happened to always be on the day that she was scheduled for her yearly vet appointment!
 
 The lady at the mission place knew that the cat's checkup was this year, and that the person was a regular, so after having told Junko about the mission, well, she decided to stay in the waiting room until the mission was available! And that is how Junko ended up here, in front of a _very_ large home. Well, a mansion. And she was here to find a cat! Certainly something she could do!

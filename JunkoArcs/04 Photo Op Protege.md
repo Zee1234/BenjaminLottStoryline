@@ -1,3 +1,5 @@
+[[https://www.narutoroleplaygame.com/t47275-photo-op-protege#365857]]
+
 It was a beautiful day!
 
 Junko had a stretch and got out of bed, though a bit less enthusiastically than she had the day before. 

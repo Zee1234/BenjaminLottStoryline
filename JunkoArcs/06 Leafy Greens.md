@@ -1,3 +1,5 @@
+[[https://www.narutoroleplaygame.com/t47379-leafy-greens]]
+
 The last person Junko did a mission for was a right twat. She had wanted to walk out many, many times, but knowing this one a one time thing, for cash, and there might be downsides if she backed down from a mission right after having accepted it, she had just finished off her time there, hating every moment of it, and faking a smile even as the photographer yelled at her. 
 
 [hr]

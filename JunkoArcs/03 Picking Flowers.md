@@ -1,3 +1,5 @@
+[[https://www.narutoroleplaygame.com/t47306-flower-picking#365937]]
+
 It was now decidedly in the 'afternoon' part of the day that was bordering 'evening'. While not yet relinquishing its control of the sky, the sun was decidedly lower and commanded less attention to its presence. This was a joyous part of the day, as one rarely if ever will turn their head and be blasted by the searing light of the sun. It was far enough above the horizon to still be pleasant.
 
 All this was barely noticed by Junko as she once again returned to the mission office. It seemed to be hot in here, as the mission lady was sweating! Well, Junko thought the temperature was fine, but maybe there was a difference if you actually worked in the building for a long time. 

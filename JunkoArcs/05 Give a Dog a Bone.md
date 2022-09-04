@@ -1,3 +1,5 @@
+[[https://www.narutoroleplaygame.com/t48409-give-a-dog-a-bone]]
+
 Shadow art was interesting. As an art form, Junko could appreciate it.
 
 But that specific artist was a complete and total _asshole_. Totally absorbed into her own ego. Anything besides perfection was _wrong_, and mistakes were _never_ her fault.
