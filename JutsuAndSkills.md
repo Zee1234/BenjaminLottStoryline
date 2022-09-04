@@ -87,11 +87,11 @@ title: Jutsu and Skills to Learn
 
 [[https://www.narutoroleplaygame.com/t49783-heavenly-body]] 2000 (AP Regen while Tai/Weaponry use)
 
+[[https://www.narutoroleplaygame.com/t49717-extreme-realm-of-force#377844]] 2000 (ERF) (Strength based fighting style)
+
 ### For Consideration
 
 [[https://www.narutoroleplaygame.com/t50233-talented]] discuss if can be made free if user has Ceaseless Dedication?
-
-[[https://www.narutoroleplaygame.com/t49717-extreme-realm-of-force#377844]] 2000 (ERF) (Strength based fighting style)
 
 ## Jutsu
 
