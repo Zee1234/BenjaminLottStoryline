@@ -15,3 +15,6 @@
 ## [[07 That's Not Snake Oil]]
 
 ## [[08 Valuable Assets]]
+
+## [[09 A Feast of Kinds and Wanted: People|09 A Feast of Kings]]
+
