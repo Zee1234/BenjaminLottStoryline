@@ -16,5 +16,5 @@
 
 ## [[08 Valuable Assets]]
 
-## [[09 A Feast of Kinds and Wanted: People|09 A Feast of Kings]]
+## [[09 A Feast of Kings and Wanted: People|09 A Feast of Kings]]
 
