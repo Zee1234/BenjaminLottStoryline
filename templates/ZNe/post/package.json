@@ -1,0 +1,17 @@
+{
+  "name": "zne-post-template",
+  "version": "1.0.0",
+  "description": "",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "css": "npx parcel src/main.sass",
+    "html": "npx parcel build src\\main.pug",
+    "build": "npm run css && npm run css && npm run html"
+  },
+  "author": "Zee1234",
+  "license": "MIT",
+  "devDependencies": {
+    "@parcel/transformer-pug": "^2.7.0",
+    "@parcel/transformer-sass": "^2.7.0"
+  }
+}
