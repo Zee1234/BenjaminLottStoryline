@@ -2,6 +2,8 @@
 title: Minor Construction Help (Mission)
 ---
 
+https://www.narutoroleplaygame.com/t47273-minor-construction-help#365855
+
 This is what Ben was used to, picking things up, carrying them, aligning boards, nailing things together...
 
 ***

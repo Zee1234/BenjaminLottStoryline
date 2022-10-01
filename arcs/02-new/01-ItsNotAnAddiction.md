@@ -2,6 +2,8 @@
 title: It's Not An Addiction, I Swear! (Mission)
 ---
 
+https://www.narutoroleplaygame.com/t47617-it-s-not-an-addiction-i-swear
+
 Ben stared ahead of himself at a vast ocean, stretching as far as the eye could see. The sun behind him as day turned to night, he decided to make camp, and figure out what to do in the morning.
 
 ***

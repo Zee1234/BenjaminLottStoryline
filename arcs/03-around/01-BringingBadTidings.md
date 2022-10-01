@@ -2,6 +2,8 @@
 title: (Don't) Shoot the Messenger (Mission)
 ---
 
+https://www.narutoroleplaygame.com/t47621-don-t-shoot-the-messenger
+
 
 Ben had a house now.
 

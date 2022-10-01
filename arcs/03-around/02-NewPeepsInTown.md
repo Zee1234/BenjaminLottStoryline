@@ -2,6 +2,8 @@
 title: Cog in the Wheel (Mission)
 ---
 
+https://www.narutoroleplaygame.com/t47624-cog-in-the-wheel
+
 Dari knew. 
 
 And Dari had known, for quite awhile.
