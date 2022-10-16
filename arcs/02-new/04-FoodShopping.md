@@ -2,6 +2,8 @@
 title: Food Shopping (Mission)
 ---
 
+https://www.narutoroleplaygame.com/t47272-food-shopping
+
 The house was nearing completion, and Ben had been hard at work.
 
 These days, however, Jaime was right at his side. Ben did not know much, but apparently Jaime had a few rough nights after 'miraculously changing his ways as if overnight'.

@@ -33,3 +33,7 @@
 [[Don't Shoot the Messenger (Mission - E)|/arcs/03-around/01-BringingBadTidings]]
 
 [[Cog in the Wheel (Mission - C)|/arcs/03-around/02-NewPeepsInTown]]
+
+### How it all ends
+
+[[Destruction And Rebirth|/arcs/04-HistoryRepeats/01-DestructionAndRebirth]]

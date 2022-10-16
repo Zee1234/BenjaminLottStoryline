@@ -2,6 +2,8 @@
 title: A Rowdy Group (Mission)
 ---
 
+https://www.narutoroleplaygame.com/t47282-a-rowdy-group#365872
+
 "You're deal, Ben," said Dari, handing him the deck of cards. While not an amazing shuffler, Ben could at least manage to shuffle without dropping the cards everywhere.
 
 Ben went ahead and pushed his ante into the center of the table and then faked impatience as the other players pushed in theirs. Dari was starting to get low on funds, but so was Ben. Certainly not the best at this game.

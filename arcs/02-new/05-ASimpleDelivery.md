@@ -2,6 +2,8 @@
 title: A Simple Delivery (Mission)
 ---
 
+https://www.narutoroleplaygame.com/t47278-a-simple-delivery#365860
+
 Getting out of bed was the easy part.
 
 Ben was still not sure about this town. The people here, by and large, seemed nice enough. But there was something distinctly fucked the fuck up.
