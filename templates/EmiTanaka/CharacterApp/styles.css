@@ -1,0 +1,28 @@
+#mycontainer {
+    display: grid;
+    flex-wrap: wrap;
+    justify-content: space-around;
+    grid-template-columns: 1fr;
+
+}
+
+.mysmall, .mybig {
+    border-radius: 5px;
+    background: orangered;
+}
+
+ul.mynobullets {
+    list-style-type: none; /* Remove bullets */
+    padding: 0; /* Remove padding */
+    margin: 0; /* Remove margins */
+}
+
+
+@media only screen and (min-width: 1000px) {
+    #mycontainer {
+        grid-template-columns: 359px 1fr;
+    }
+    .mybig {
+        grid-column-start: 2;
+    }
+}

@@ -1,0 +1,172 @@
+@import url('https://fonts.googleapis.com/css2?family=Spicy+Rice&display=swap')
+
+.container
+  display: flex
+  gap: 10px
+  flex-flow: column
+  justify-content: space-around
+  align-items: flex-start safe
+  color: black
+  
+  .codebox.spoiler
+    background: none
+    border: none
+    padding: 0px
+
+  .spoiler_title
+    border: 3px solid #aaa
+    background: #aaa
+    box-shadow: 5px 5px 5px 0px rgba(0,0,0,0.75)
+
+  .codebox.spoiler::before, .spoiler::after
+    content: ''
+
+  
+  a
+    color: black
+  
+  
+  dl.custom
+    width: 100%
+    overflow: hidden
+    padding: 0
+    margin: 0
+    
+    dt::after
+      content: ": "
+
+    dt
+      float: left
+      width: 70%
+      padding: 0
+      margin: 0
+
+    dd
+      float: left
+      width: 30%
+      padding: 0
+      margin: 0
+
+.container > *
+  flex-basis: 1
+  
+.box
+  position: relative
+  background: #df7e0c
+  padding: 10px
+  padding-top: 40px
+  border-radius: 5px
+  
+  .box-header
+    height: 3em
+    text-align: center
+    h1
+      vertical-align: top
+      font: 24pt 'Spicy Rice', cursive
+      transform: translateY(-1.3em)
+    
+  .box-middle
+    position: absolute
+    left: 50%
+    top: 2.5em
+    width: 50px
+    height: 50px
+    border-radius: 25px
+    background: #333
+    transform: translate(-50%)
+    overflow: show
+    transition-property: width, height, top
+    transition-duration: 0.5s
+    transition-timing-function: linear
+    transition-delay: 0.5s
+    background-repeat: no-repeat
+    background-size: 280px
+    z-index: 1
+    
+    &:hover
+      width: 280px
+      height: 90%
+      top: 5%
+    
+    &.general
+      background-image: url('https://i.imgur.com/i4XfmTl.png')
+      background-position: 50% 15%
+    &.my-statistics
+      background-image: url('https://i.imgur.com/iE3rVQj.png')
+      background-position: 50% 15%
+    &.substats
+      background-image: url('https://i.imgur.com/21iz5Ns.png')
+      background-position: 50% 25%
+    &.srank
+      background-image: url('https://i.imgur.com/WE8YkUa.png')
+      background-position: 50% 5%
+    &.arank
+      background-image: url('https://i.imgur.com/B0RFBf9.png')
+      background-position: 55% 15%
+    &.brank
+      background-image: url('https://i.imgur.com/Qg4r96s.png')
+      background-position: 50% 15%
+    &.crank
+      background-image: url('https://i.imgur.com/rUNrvuL.png')
+      background-position: 50% 15%
+    &.drank
+      background-image: url('https://i.imgur.com/HKA3qbR.png')
+      background-position: 50% 15%
+    &.erank
+      background-image: url('https://i.imgur.com/qcpnopK.png')
+      background-position: 50% 5%
+    &.skills
+      background-image: url('https://i.imgur.com/W841oA7.png')
+      background-position: 45% 15%
+    &.inv
+      background-image: url('https://i.imgur.com/HVTTkav.png')
+      background-position: 55% 17%
+    &.appearance
+      background-image: url('https://i.imgur.com/dSCoC0C.png')
+      background-position: 57% 18%
+    &.personality
+      background-image: url('https://i.imgur.com/qbNhkWI.png')
+      background-position: 50% 20%
+    &.story
+      background-image: url('https://i.imgur.com/K1rjgdD.png')
+      background-position: 37% 20%
+    
+  .box-content
+    padding: 5px
+    padding-top: 20px
+    background: #fff
+    border-radius: 5px
+    
+  
+
+.flow
+  display: flex
+  flex-flow: row wrap
+  justify-content: space-around
+  align-items: flex-start safe
+  gap: 3px
+  margin-bottom: 5px
+  
+  .element
+    padding: 5px
+    border: 3px solid black
+    background: red
+    border-radius: 5px
+ 
+.flow > *
+  flex-basis: none auto
+
+
+
+@media (min-width: 600px)
+  .container
+    flex-flow: row wrap
+    
+    .box
+      padding-top: 10px
+      .box-header
+        h1
+          transform: translateY(-0.8em)
+  
+  .container > *
+    flex-basis: 300px
