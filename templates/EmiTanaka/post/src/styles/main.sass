@@ -1,0 +1,53 @@
+@use "_spoiler.sass"
+.emiContainer
+	position: relative
+	display: grid
+	justify-items: center
+	margin: 0 auto
+	max-width: 30em
+	text-align: justify
+	overflow: hidden
+	background-color: black
+	color: white
+	padding-bottom: 1.5em
+
+	p
+		padding: 5px
+
+	*, *::before, *::after 
+		margin: 0
+		padding: 0
+
+
+
+	.emiPostBody
+		margin-top: 2em
+		width: 25em
+		max-width: 90%
+
+	.emiColorIn
+		position: relative
+		
+		img
+			display: block
+			max-width: 100%
+			
+		.emiMasked
+			position: absolute
+			inset: 0
+			background-image: url('https://i.imgur.com/dOthfzD.png')
+			background-size: cover
+			mask-image: url('https://i.imgur.com/g4vNxoh.png')
+			mask-size: cover
+			mask-position: 0% 0%
+			animation: addColor 700ms steps(11) forwards
+			animation-play-state: paused
+			
+			&:hover
+				animation-play-state: running
+		
+@keyframes addColor
+	0%
+		mask-position: 0% 0%
+	100%
+		mask-position: 100% 0%
