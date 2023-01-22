@@ -1,0 +1,49 @@
+@use "_spoiler.sass"
+.lij
+	color: #ff9900
+.elz
+	color: #00ccff
+
+
+
+.eliContainer
+	position: relative
+	max-width: 80%
+	margin: 0 auto
+	container-name: postContent
+	display: grid
+	align-items: stretch
+	gap: 1rem
+	grid-template-columns: 1fr
+	
+.eliHeader
+	position: sticky
+	top: 4em
+	align-self: start
+	img
+		width: 100%
+		position: absolute
+		top: 0
+		mask-image: url('https://i.imgur.com/Swd8ly3.png')
+		mask-size: cover
+		mask-position: 0% 0%
+		transition: mask-position 700ms steps(22)
+
+		&+img
+			position: relative
+		
+		&.front:hover
+			mask-position: 0% 100%
+.ooc
+	z-index: 1
+
+@container postContent (width >= 400px)
+	.eliContainer
+		grid-template-columns: 2fr 1fr
+	
+
+
+@supports not (container-name: value)
+	@media only screen and (min-width: 900px)
+		.eliContainer
+			grid-template-columns: 2fr 1fr
